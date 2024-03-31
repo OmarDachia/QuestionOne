@@ -1,0 +1,6 @@
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionOne\QuestionOne\bin\Debug\QuestionOne.exe.config
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionOne\QuestionOne\bin\Debug\QuestionOne.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionOne\QuestionOne\bin\Debug\QuestionOne.pdb
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionOne\QuestionOne\obj\Debug\QuestionOne.csprojResolveAssemblyReference.cache
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionOne\QuestionOne\obj\Debug\QuestionOne.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionOne\QuestionOne\obj\Debug\QuestionOne.pdb
